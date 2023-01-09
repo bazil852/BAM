@@ -13,6 +13,7 @@ Group: F22-097-D-BAM
 
 2:
 > cd BAM 
+> 
 > npm install
 
 incase the installation throws any errors use this command.
